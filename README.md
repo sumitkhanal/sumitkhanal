@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumitkhanal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️  Dev Quote
+![]("Great code is not written; it’s discovered—hidden within the problem, waiting to be uncovered with clarity and curiosity.")
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
